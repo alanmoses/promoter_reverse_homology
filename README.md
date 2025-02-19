@@ -1,5 +1,5 @@
 # promoter_reverse_homology
-Learn motif-based promoter representations using reverse homology
+Learn interpretable motif-based encoders using reverse homology and embed promoter sequences using phylogenetic averaging (RHIEPA)
 
 
 ###copyright Alan Moses 2021-2025
