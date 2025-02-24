@@ -10,7 +10,7 @@ These are the codes to infer motif-based RHIEPA representations directly from ge
 
 Step 0. set up the python environment. conda .yaml files are provided for CPU and GPU (tf_cpu.yaml, tf_gpu.yaml)
 
-Step 1. Learn a motif-based encoder usinf reverse homology
+Step 1. Learn a motif-based encoder using reverse homology
 
  $ python promoter_reverse_homology.py test_data/
 
