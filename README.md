@@ -6,7 +6,7 @@ Learn interpretable motif-based encoders using reverse homology and embed promot
 ###permission to use and copy is granted for research purposes only
 ###software provided as is with no warrantee of any kind
 
-These are the codes to infer motif-based RHIEPA representations directly from genome sequences. You can see an example of the motifs learned on the S. cerevisiae (and ortholog) promoter sequences in sc_tomtom-JASPAR-fungi.html. The test data provided along with the codes here is only to verify that the code is running correctly. The full training data sets and example outputs are available for download at this zenodo: https://zenodo.org/records/14920044.
+These are the codes to infer motif-based RHIEPA representations directly from genome sequences. You can see an example of the motifs learned on the S. cerevisiae (and ortholog) promoter sequences in sc_tomtom-JASPAR-fungi.html. The test data provided along with the codes here is only to verify that the code is running correctly. The full training data sets and example outputs are available for download at this zenodo: https://zenodo.org/records/15628129.
 
 Step 0. set up the python environment. conda .yaml files are provided for CPU and GPU (tf_cpu.yaml, tf_gpu.yaml)
 
